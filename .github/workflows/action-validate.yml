@@ -27,7 +27,7 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: Exibir mensage
-        uses: alexdesouzasilva/simple-action@v1.0.0
+        uses: alexdesouzasilva/simple-action@v1.0.1
         with:
           nome: "Alex De Souza Silva"
 
